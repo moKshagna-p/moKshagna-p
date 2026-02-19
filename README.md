@@ -10,7 +10,7 @@ Frontend Developer & DevOps Engineer
 
 ---
 
-**a few things i've built**
+**things i've built**
 
 - 🏆 **Draft Ease** — floor plan → CAD converter, 2nd place @ Spectrum'25
 - 🛡️ **DeepDefend** — real-time deepfake detector, 93%+ accuracy, top 90 @ Hackcelerate
