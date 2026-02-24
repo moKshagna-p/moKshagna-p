@@ -6,7 +6,7 @@ Frontend Developer & DevOps Engineer
 
 **things i work with**
 
-![skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,docker,postgres,supabase,flask)
+![skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,docker,postgres,supabase,flask,Go)
 
 ---
 
