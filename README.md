@@ -12,8 +12,11 @@ Frontend Developer & DevOps Engineer
 
 **things i've built**
 
--  **Draft Ease** — floor plan → CAD converter, 2nd place @ Spectrum'25
--  **DeepDefend** — real-time deepfake detector, 93%+ accuracy, top 90 @ Hackcelerate
+-  **Draft Ease** — floor plan → CAD converter
+-  **LeetBar** — LeetCode problem tracker that lives in your menu bar for macos
+-  **Cinder** — terminal music visualizer
+-  **letterboxd-tui** — access your Letterboxd from the terminal
+-  **DeepDefend** — real-time deepfake detector
 -  **Letterboxd for Restaurants** — social restaurant discovery platform
 -  **Musico** — community-driven music rating & discovery app
 
