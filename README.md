@@ -12,13 +12,14 @@ Frontend Developer & DevOps Engineer
 
 **things i've built**
 
+-  **musico** — letterboxd for music
 -  **Draft Ease** — floor plan → CAD converter
 -  **LeetBar** — LeetCode problem tracker that lives in your menu bar for macos
 -  **Cinder** — terminal music visualizer
 -  **letterboxd-tui** — access your Letterboxd from the terminal
 -  **DeepDefend** — real-time deepfake detector
 -  **Letterboxd for Restaurants** — social restaurant discovery platform
--  **Musico** — community-driven music rating & discovery app
+
 
 ---
 
