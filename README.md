@@ -1,29 +1,15 @@
-### hey, I'm Mokshagna 👋
+### hey, I'm Mokshagna👋
 
-Frontend Developer & DevOps Engineer
-
----
-
-**things i work with**
-
-![skills](https://skillicons.dev/icons?i=ts,js,react,aws,go,kubernetes,mongodb,jenkins,python,docker,postgres,flask)
+i build things, listen to music too loud, and occasionally question whether any of this is real.
 
 ---
 
 **things i've built**
 
--  **musico** — letterboxd for music
--  **Draft Ease** — floor plan → CAD converter
--  **LeetBar** — LeetCode problem tracker that lives in your menu bar for macos
--  **Cinder** — terminal music visualizer
--  **letterboxd-tui** — access your Letterboxd from the terminal
--  **DeepDefend** — real-time deepfake detector
--  **Letterboxd for Restaurants** — social restaurant discovery platform
-
+- [musico](https://github.com/moKshagna-p/musico) — letterboxd for music
+- [cinder](https://github.com/moKshagna-p/cinder) — terminal music visualizer
+- [letterboxd-cli](https://github.com/moKshagna-p/letterboxd-TUI-Heatmap) — access your letterboxd from the terminal
 
 ---
 
-**reach me**
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=vercel)](https://mokshagna-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:mokshagnareddy45@gmail.com)
+> *"One must imagine the developer happy."*
