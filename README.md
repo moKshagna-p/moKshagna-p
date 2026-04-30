@@ -12,4 +12,6 @@ i build things, listen to music too loud, and occasionally question whether any 
 
 ---
 
+yes i'm obsessed with letterboxd , such a cool thing to exist XD
+
 > *"One must imagine the developer happy."*
