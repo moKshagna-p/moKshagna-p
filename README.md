@@ -1,6 +1,6 @@
 ### hey, I'm Mokshagna👋
 
-i build things, listen to music too loud, and occasionally question whether any of this is real.
+i build things, listen to music too loud.
 
 ---
 
