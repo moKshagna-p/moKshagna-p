@@ -1,7 +1,5 @@
 ### hey, I'm Mokshagna👋
 
-i build things, listen to music too loud.
-
 ---
 
 **things i've built**
@@ -12,6 +10,3 @@ i build things, listen to music too loud.
 
 ---
 
-yes i'm obsessed with letterboxd , such a cool thing to exist XD
-
-> *"One must imagine the developer happy."*
